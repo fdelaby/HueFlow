@@ -1,0 +1,12 @@
+{
+  "ID": "CEA0FDFC6D3B4085823D60DC76F28844",
+  "ActionKeyword": "hue",
+  "Name": "HueFlow",
+  "Description": "HueFlow commands your Hue with Flow Launcher",
+  "Author": "fdelaby",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Flow-Launcher/plugin-samples",
+  "ExecuteFileName": "HueFlow.dll",
+  "IcoPath": "Images\\2x\\baseline_emoji_objects_black_48dp.png"
+}
