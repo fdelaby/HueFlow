@@ -39,7 +39,6 @@
 
   <ItemGroup>
     <PackageReference Include="Flow.Launcher.Plugin" Version="3.0.1" />
-    <PackageReference Include="IPUserControls.Wpf" Version="1.1.0" />
     <PackageReference Include="Q42.HueApi" Version="3.21.0" />
     <PackageReference Include="Q42.HueApi.ColorConverters" Version="3.20.1" />
   </ItemGroup>
