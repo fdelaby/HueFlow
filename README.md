@@ -2,6 +2,26 @@
 
 Hue plugin for Flow Launcher
 
+### About
+
+Control your Hue lights with the Flow Launcher. 
+
+Lists lights and groups.
+
+Turn on or off light or group.
+
+
+### Usage
+| Keyword                            | Description                                      |
+| ---------------------------------- | -----------------------------                    |
+| `` hue ``                          | Show general help                                |
+| `` hue command ``                  | Show all possibles commands                      |
+| `` hue lights ``                   | Show all lights controllables                    |
+| `` hue groups ``                   | Show all lights controllables                    |
+| `` hue on {light or group} ``      | Turn on light or group                           |
+| `` hue off {light or group} ``     | Turn off light or group                          |
+
+
 
 ## Thanks
 
