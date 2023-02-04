@@ -21,6 +21,11 @@ Turn on or off light or group.
 | `` hue on {light or group} ``      | Turn on light or group                           |
 | `` hue off {light or group} ``     | Turn off light or group                          |
 
+### Setup
+
+in the settings panel, add the hue bridge ip and click on the Get Token button.
+You have 10 seconds to press the connect button on the bridge.
+If ok, the token will be write in the Hue Api Token field.
 
 
 ## Thanks
